@@ -1683,7 +1683,7 @@ if ($debugLoc == "screen") {
 <?php } ?>
 
 <div align="center"><font size="1">Web UI for Serviio &copy; 2012 <a href="https://github.com/mpemberton5/Web-UI-for-Serviio">Mark Pemberton</a><br>
-Maintained by 2013  <a href="https://github.com/IndividualLover/Web-UI-for-Serviio">Individual</a><br>
+Maintained by 2013  <a href="https://github.com/IndividualLover/Serviio-Web-UI">Individual</a><br>
 RESTfull class &copy; <a href="http://www.gen-x-design.com/">Ian Selby</a> // 
 AJAX File Browser &copy; <a href="http://gscripts.net/free-php-scripts/Listing_Script/AJAX_File_Browser/details.html">Free PHP Scripts</a> //
 Table Sorting/Filtering &copy; <a href="http://www.javascripttoolbox.com/lib/table/source.php">Matt Kruse</a> //
