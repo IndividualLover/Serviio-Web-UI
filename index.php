@@ -60,7 +60,7 @@ $profiles = $serviio->getReferenceData('profiles');
 <link rel="stylesheet" type="text/css" href="css/ajaxtabs.css" />
 <script type="text/javascript" src="js/ajaxtabs.js">
 /***********************************************
- * * Ajax Tabs Content script v2.2- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+ * * Ajax Tabs Content script v2.2- Â© Dynamic Drive DHTML code library (www.dynamicdrive.com)
  * * This notice MUST stay intact for legal use
  * * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
  * ***********************************************/
@@ -69,7 +69,7 @@ $profiles = $serviio->getReferenceData('profiles');
 <link rel="stylesheet" type="text/css" href="css/tabcontent.css" />
 <script type="text/javascript" src="js/tabcontent.js">
 /***********************************************
- * * Tab Content script v2.2- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+ * * Tab Content script v2.2- Â© Dynamic Drive DHTML code library (www.dynamicdrive.com)
  * * This notice MUST stay intact for legal use
  * * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
  * ***********************************************/
@@ -1681,8 +1681,7 @@ if ($debugLoc == "screen") {
     </fieldset>
 </div>
 <?php } ?>
-
-<div align="center"><font size="1">Web UI for Serviio &copy; 2012 <a href="https://github.com/mpemberton5/Web-UI-for-Serviio">Mark Pemberton</a><br>
+<div align="center"><font size="1"><br>
 Maintained by 2013  <a href="https://github.com/IndividualLover/Serviio-Web-UI">Individual</a><br>
 RESTfull class &copy; <a href="http://www.gen-x-design.com/">Ian Selby</a> // 
 AJAX File Browser &copy; <a href="http://gscripts.net/free-php-scripts/Listing_Script/AJAX_File_Browser/details.html">Free PHP Scripts</a> //
