@@ -18,4 +18,4 @@ CHANGELOG:
 
 P.S : 
 
-* "Log file select" writing and calling log file path informations from "logfile.txt" placed under root of serviioweb folder. Linux users don't forgot give permission 777 to this file. Also don't forgot give permission serviio log folder for access to this folder.
+* "Log file select" section Read/Write log file location information from "logfile.txt" file placed under root of serviio web folder. Linux users don't forgot give permission 777 to this file. Also don't forgot give permission serviio log folder for access to this folder.
