@@ -1,1 +1,1 @@
-/var/www/serviioweb/README.txt
+README.txt
